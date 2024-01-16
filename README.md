@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+ <img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47zwbzd1hltpyywaacv7tgkmp2ugn5uj6wgck179n6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 <div id="badges">
  <div align="center">
