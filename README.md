@@ -1,18 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/nP1I08QRJC7wTo60dL/giphy.gif" width="400"/>
+  <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
 </div>
 <div id="badges">
  <div align="center">
-  <a href="https://www.linkedin.com/in/shaishta-anjum-24b316252">
+  <a href="https://www.linkedin.com/in/riddhikapil30/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/shaishta_anjum">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/shaishta2002@gmail.com/#compose">
+  <a href="https://mail.google.com/mail/u/riddhikapil30@gmail.com/#compose">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="discordapp.com/users/farfetchdreamer#0245">
+  <a href="discordapp.com/users/itsriddhiii">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
@@ -25,9 +22,7 @@
   
 ### 💟 About Me :
 - 🏫 I'm currently pursuing Engineering in Artificial Intelligence from Sri Venkateshwara College of Engineering (2021-2025)
-- 🌱 I’m an aspiring Data Analyst trying to master the art the of data analysis by making projects with Python, SQL, Power BI and Excel.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact about me: Apart from coding, I also love reading novels.
+- 🌱 I’m an aspiring AI Engineer trying to master the art of Machine Learning and AI by making projects with Python, SQL, Power BI and integrating ML models.
   
 ---
   
