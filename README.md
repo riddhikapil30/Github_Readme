@@ -30,6 +30,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git Hub" **alt="Git Hub" width="40" height="40"/>
@@ -48,5 +49,6 @@
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/icons8-power-bi-2021-48.png?raw=true" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Seaborn%20cropped.png?raw=true" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Matplotlib.png?raw=true" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+ 
 </div>
 
